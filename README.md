@@ -5,10 +5,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Latelatelateprogrammer&theme=transparent)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latelatelateprogrammer&theme=transparent&show_icons=true)
 
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Latelatelateprogrammer)](https://github.com/Latelatelateprogrammer/)
 
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Latelatelateprogrammer)](https://github.com/Latelatelateprogrammer/)
-
-//![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Latelatelateprogrammer&hide=B&theme=algolia)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Latelatelateprogrammer&hide=B&theme=algolia)
+--->
 
 <!---
 Latelatelateprogrammer/Latelatelateprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
