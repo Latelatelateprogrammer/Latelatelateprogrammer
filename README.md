@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Latelatelateprogrammer)](https://github.com/Latelatelateprogrammer/)
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Latelatelateprogrammer)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Latelatelateprogrammer=B&theme=default)
 
 <!---
 Latelatelateprogrammer/Latelatelateprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
