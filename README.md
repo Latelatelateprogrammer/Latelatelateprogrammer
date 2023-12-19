@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sameer aka @Latelatelateprogrammer
 - 👀 I’m interested in all things productivity and time saving
 - 🌱 I’m currently learning Kotlin
-
-![Visitor Count](https://profile-counter.glitch.me/{Latelatelateprogrammer}/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Latelatelateprogrammer)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Latelatelateprogrammer&theme=transparent)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latelatelateprogrammer&theme=transparent&show_icons=true)
 <!---
