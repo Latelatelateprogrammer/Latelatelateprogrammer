@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Kotlin
 [![GitHub Streak](https://streak-stats.demolab.com?user=Latelatelateprogrammer&theme=transparent)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latelatelateprogrammer&theme=transparent&show_icons=true)
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+)&left_color=green&right_color=red)
 <!---
 Latelatelateprogrammer/Latelatelateprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
