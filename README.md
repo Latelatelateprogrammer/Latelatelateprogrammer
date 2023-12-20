@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sameer aka @Latelatelateprogrammer
 - 👀 I’m interested in all things productivity and time saving
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning and failing
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Latelatelateprogrammer&theme=transparent)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latelatelateprogrammer&theme=transparent&show_icons=true)
